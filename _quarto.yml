@@ -6,7 +6,7 @@ execute:
 
 website:
   title: "Home" # https://quarto.org/docs/websites/website-tools.html#open-graph
-  site-url: https://www.econmaett@github.io
+  site-url: https://www.econmaett.github.io
   description: "econmaett blog"
   open-graph: true
   page-footer: "Made with ❤️ and Quarto"
