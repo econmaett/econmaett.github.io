@@ -8,18 +8,13 @@ about: # https://quarto.org/docs/websites/website-about.html
   links: 
   - icon: github
     href: https://github.com/EconMaett
-  - icon: orcid
-    text: "ORCID"
+  - text: "{{< iconify simple-icons:orcid >}}"
     href: https://orcid.org/0000-0003-0368-5175
   - icon: instagram
     href: https://www.instagram.com/econmaett/
   - icon: youtube
     href: https://www.youtube.com/@econmaett
-  - icon: crossvalidated
-    text: "CrossValidated"
-    href: https://stats.stackexchange.com/users/404985/econmaett
-  - icon: stackoverflow
-    text: "StackOverflow"
+  - text: "{{< iconify ph:stack-overflow-logo >}}"
     href: https://stackoverflow.com/users/23243289/econmaett
   - icon: substack
     href: https://substack.com/@econmaett
@@ -29,8 +24,7 @@ about: # https://quarto.org/docs/websites/website-about.html
     href: https://www.reddit.com/user/EconMaett/
   - icon: twitter
     href: https://x.com/EconMaett
-  - icon: bluesky
-    text: "BlueSky"
+  - text: "{{< iconify fa6-brands bluesky size=1.1em title='Bluesky' >}}"
     href: https://bsky.app/profile/econmaett.bsky.social
   - icon: mastodon
     href: https://mastodon.social/@EconMaett
