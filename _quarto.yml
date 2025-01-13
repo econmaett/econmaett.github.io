@@ -23,7 +23,7 @@ website:
         href: projects/index.qmd
     right:
       - icon: rss
-        href: index.xml
+        href: blog/index.xml
       - text: "Talks"
         icon: megaphone
         href: talks.qmd
