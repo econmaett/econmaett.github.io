@@ -3,5 +3,7 @@ title: "Blog"
 listing: 
   contents: /
   type: grid
+  categories: true
+  feed: true
 ---
 
