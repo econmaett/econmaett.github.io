@@ -1,0 +1,47 @@
+/*-- scss:defaults --*/
+
+// Sass variables
+// https://quarto.org/docs/output-formats/html-themes.html#sass-variables
+
+// https://fonts.google.com/
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+$theme-sand: #FFFFFF;
+$theme-rock: rgb(55, 58, 60);
+$theme-blue: rgb(39, 128, 227);
+
+/* Base document colors */ 
+$body-bg: $theme-sand;
+$body-color: $theme-rock;
+$link-color: $theme-blue;
+
+/* Fonts */
+$font-family-sans-serif: "Roboto+Condensed", Sans-Serif;
+$font-size-root: 17px;
+
+// Code blocks
+$code-block-bg-alpha: -.8;
+
+$h2-font-size:          1.6rem !default;
+$headings-font-weight:  500 !default;
+
+/*-- scss:rules --*/
+h1, h2, h3, h4, h5, h6 {
+  text-transform: uppercase;
+  color: $theme-rock;
+}
+
+.navbar * {
+  color: $theme-rock;
+}
+
+span.navbar-title {
+  
+  transition-duration: 0.5s;
+  
+  &:hover {
+    color: darken($theme-blue, 5%);
+    transition-duration: 0.5s;
+  }
+}

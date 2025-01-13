@@ -1,19 +1,32 @@
 project:
   type: website
 
+execute: 
+  freeze: auto
+
 website:
-  title: "econmaett.github.io"
+  title: "Home" # https://quarto.org/docs/websites/website-tools.html#open-graph
+  open-graph: true
+  page-footer: "Made with ❤️ and Quarto"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    title: "EconMaett"
+    # background: primary
+    search: false
+    left: 
+      - text: "Blog"
+        icon: feather
+        href: blog/index.qmd
+      - text: "Projects"
+        icon: gear
+        href: projects/index.qmd
+    right:
+      - text: "Talks"
+        icon: megaphone
+        href: talks.qmd
+    tools:
+      - icon: github
+        href: https://github.com/EconMaett/econmaett.github.io
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
-    toc: true
-
-
-
+    theme: [cosmo, styles.scss]
