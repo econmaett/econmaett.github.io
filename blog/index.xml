@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>Home</title>
-<link>https://www.econmaett@github.io/blog/</link>
-<atom:link href="https://www.econmaett@github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://www.econmaett.github.io/blog/</link>
+<atom:link href="https://www.econmaett.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>econmaett blog</description>
 <generator>quarto-1.6.40</generator>
 <lastBuildDate>Mon, 24 May 2021 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Third Blog Post</title>
   <dc:creator>Alicia </dc:creator>
-  <link>https://www.econmaett@github.io/blog/third-post/</link>
+  <link>https://www.econmaett.github.io/blog/third-post/</link>
   <description><![CDATA[ 
 
 
@@ -93,7 +93,7 @@ font-style: inherit;">"ch:rot=-.25,hue=1,light=.75"</span>,   </span>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://www.econmaett@github.io/blog/third-post/index_files/figure-html/cell-2-output-1.png" class="img-fluid figure-img"></p>
+<p><img src="https://www.econmaett.github.io/blog/third-post/index_files/figure-html/cell-2-output-1.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
@@ -104,13 +104,13 @@ font-style: inherit;">"ch:rot=-.25,hue=1,light=.75"</span>,   </span>
  ]]></description>
   <category>Science</category>
   <category>Data</category>
-  <guid>https://www.econmaett@github.io/blog/third-post/</guid>
+  <guid>https://www.econmaett.github.io/blog/third-post/</guid>
   <pubDate>Mon, 24 May 2021 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Second Post</title>
   <dc:creator>econmaett </dc:creator>
-  <link>https://www.econmaett@github.io/blog/second-post/</link>
+  <link>https://www.econmaett.github.io/blog/second-post/</link>
   <description><![CDATA[ 
 
 
@@ -125,14 +125,14 @@ font-style: inherit;">"ch:rot=-.25,hue=1,light=.75"</span>,   </span>
  ]]></description>
   <category>Science</category>
   <category>Data</category>
-  <guid>https://www.econmaett@github.io/blog/second-post/</guid>
+  <guid>https://www.econmaett.github.io/blog/second-post/</guid>
   <pubDate>Sun, 23 May 2021 00:00:00 GMT</pubDate>
-  <media:content url="https://www.econmaett@github.io/blog/second-post/cover.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://www.econmaett.github.io/blog/second-post/cover.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>First Post</title>
   <dc:creator>econmaett </dc:creator>
-  <link>https://www.econmaett@github.io/blog/first-post/</link>
+  <link>https://www.econmaett.github.io/blog/first-post/</link>
   <description><![CDATA[ 
 
 
@@ -147,9 +147,9 @@ font-style: inherit;">"ch:rot=-.25,hue=1,light=.75"</span>,   </span>
  ]]></description>
   <category>Science</category>
   <category>Technology</category>
-  <guid>https://www.econmaett@github.io/blog/first-post/</guid>
+  <guid>https://www.econmaett.github.io/blog/first-post/</guid>
   <pubDate>Sat, 22 May 2021 00:00:00 GMT</pubDate>
-  <media:content url="https://www.econmaett@github.io/blog/first-post/cover.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://www.econmaett.github.io/blog/first-post/cover.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
