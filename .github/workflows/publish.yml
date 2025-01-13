@@ -3,6 +3,9 @@ on:
   push:
     branches: main
 
+env:
+  TZ: "Germany/Berlin"
+
 name: Quarto Publish
 
 jobs:
