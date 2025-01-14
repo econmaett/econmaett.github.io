@@ -3,4 +3,6 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-This repository contains the source code of [my personal website](https://econmaett.github.io/).
+Hi there! Welcome to the repository for my personal website!
+
+It contains the the source code for [my personal website](https://econmaett.github.io/).

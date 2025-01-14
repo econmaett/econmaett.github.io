@@ -29,7 +29,8 @@ website:
         icon: gear
         href: projects/index.qmd
     right:
-      - icon: rss
+      - text: "RSS"
+        icon: rss
         href: blog/index.xml
       - text: "Talks"
         icon: megaphone
