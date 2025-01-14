@@ -28,6 +28,8 @@ about:
     href: https://bsky.app/profile/econmaett.bsky.social
   - icon: mastodon
     href: https://mastodon.social/@EconMaett
+  - text: "{{< iconify tabler:brand-threads >}}"
+    href: https://www.threads.net/@econmaett
 ---
 
 Hi there! My name is Matt and I am an economist and data scientist based in Zurich, Switzerland. 
