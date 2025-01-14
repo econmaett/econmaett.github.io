@@ -36,11 +36,7 @@ website:
         href: talks.qmd
     tools:
       - icon: github
-        menu:
-          - text: "Source Code"
-            href: https://github.com/EconMaett/econmaett.github.io
-          - text: "Report a Bug"
-            href: https://github.com/EconMaett/econmaett.github.io/issues
+        href: https://github.com/EconMaett/econmaett.github.io
 
 format:
   html:
