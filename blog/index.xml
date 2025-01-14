@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>Home</title>
-<link>https://www.econmaett.github.io/blog/</link>
-<atom:link href="https://www.econmaett.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://EconMaett.github.io/econmaett.github.io/blog/</link>
+<atom:link href="https://EconMaett.github.io/econmaett.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>econmaett blog</description>
 <generator>quarto-1.6.40</generator>
 <lastBuildDate>Mon, 24 May 2021 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Third Blog Post</title>
   <dc:creator>Alicia </dc:creator>
-  <link>https://www.econmaett.github.io/blog/third-post/</link>
+  <link>https://EconMaett.github.io/econmaett.github.io/blog/third-post/</link>
   <description><![CDATA[ 
 
 
@@ -93,7 +93,7 @@ font-style: inherit;">"ch:rot=-.25,hue=1,light=.75"</span>,   </span>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://www.econmaett.github.io/blog/third-post/index_files/figure-html/cell-2-output-1.png" class="img-fluid figure-img"></p>
+<p><img src="https://EconMaett.github.io/econmaett.github.io/blog/third-post/index_files/figure-html/cell-2-output-1.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
@@ -104,35 +104,13 @@ font-style: inherit;">"ch:rot=-.25,hue=1,light=.75"</span>,   </span>
  ]]></description>
   <category>Science</category>
   <category>Data</category>
-  <guid>https://www.econmaett.github.io/blog/third-post/</guid>
+  <guid>https://EconMaett.github.io/econmaett.github.io/blog/third-post/</guid>
   <pubDate>Mon, 24 May 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Second Post</title>
-  <dc:creator>econmaett </dc:creator>
-  <link>https://www.econmaett.github.io/blog/second-post/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis imperdiet massa tincidunt nunc pulvinar sapien et ligula. Amet cursus sit amet dictum sit amet. Eget duis at tellus at urna condimentum. Convallis aenean et tortor at risus viverra. Tincidunt ornare massa eget egestas purus viverra accumsan. Et malesuada fames ac turpis egestas. At imperdiet dui accumsan sit amet. Ut ornare lectus sit amet est placerat. Enim nulla aliquet porttitor lacus luctus accumsan tortor posuere. Duis ultricies lacus sed turpis tincidunt id aliquet risus. Mattis enim ut tellus elementum sagittis. Dui id ornare arcu odio ut. Natoque penatibus et magnis dis. Libero justo laoreet sit amet cursus sit. Sed faucibus turpis in eu. Tempus iaculis urna id volutpat lacus laoreet.</p>
-<p>Phasellus vestibulum lorem sed risus. Eget felis eget nunc lobortis mattis. Sit amet aliquam id diam maecenas ultricies. Egestas maecenas pharetra convallis posuere morbi. Etiam erat velit scelerisque in dictum non consectetur a erat. Cras fermentum odio eu feugiat pretium nibh ipsum consequat. Viverra accumsan in nisl nisi scelerisque. Et netus et malesuada fames ac. Amet tellus cras adipiscing enim eu turpis egestas pretium aenean. Eget lorem dolor sed viverra ipsum nunc aliquet. Ultrices dui sapien eget mi proin sed libero enim sed. Ultricies mi eget mauris pharetra et ultrices neque. Ipsum suspendisse ultrices gravida dictum. A arcu cursus vitae congue mauris rhoncus aenean vel. Gravida arcu ac tortor dignissim convallis. Nulla posuere sollicitudin aliquam ultrices.</p>
-
-
-
- ]]></description>
-  <category>Science</category>
-  <category>Data</category>
-  <guid>https://www.econmaett.github.io/blog/second-post/</guid>
-  <pubDate>Sun, 23 May 2021 00:00:00 GMT</pubDate>
-  <media:content url="https://www.econmaett.github.io/blog/second-post/cover.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>First Post</title>
   <dc:creator>econmaett </dc:creator>
-  <link>https://www.econmaett.github.io/blog/first-post/</link>
+  <link>https://EconMaett.github.io/econmaett.github.io/blog/first-post/</link>
   <description><![CDATA[ 
 
 
@@ -147,9 +125,31 @@ font-style: inherit;">"ch:rot=-.25,hue=1,light=.75"</span>,   </span>
  ]]></description>
   <category>Science</category>
   <category>Technology</category>
-  <guid>https://www.econmaett.github.io/blog/first-post/</guid>
+  <guid>https://EconMaett.github.io/econmaett.github.io/blog/first-post/</guid>
   <pubDate>Sat, 22 May 2021 00:00:00 GMT</pubDate>
-  <media:content url="https://www.econmaett.github.io/blog/first-post/cover.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://EconMaett.github.io/econmaett.github.io/blog/first-post/cover.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Second Post</title>
+  <dc:creator>econmaett </dc:creator>
+  <link>https://EconMaett.github.io/econmaett.github.io/blog/second-post/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis imperdiet massa tincidunt nunc pulvinar sapien et ligula. Amet cursus sit amet dictum sit amet. Eget duis at tellus at urna condimentum. Convallis aenean et tortor at risus viverra. Tincidunt ornare massa eget egestas purus viverra accumsan. Et malesuada fames ac turpis egestas. At imperdiet dui accumsan sit amet. Ut ornare lectus sit amet est placerat. Enim nulla aliquet porttitor lacus luctus accumsan tortor posuere. Duis ultricies lacus sed turpis tincidunt id aliquet risus. Mattis enim ut tellus elementum sagittis. Dui id ornare arcu odio ut. Natoque penatibus et magnis dis. Libero justo laoreet sit amet cursus sit. Sed faucibus turpis in eu. Tempus iaculis urna id volutpat lacus laoreet.</p>
+<p>Phasellus vestibulum lorem sed risus. Eget felis eget nunc lobortis mattis. Sit amet aliquam id diam maecenas ultricies. Egestas maecenas pharetra convallis posuere morbi. Etiam erat velit scelerisque in dictum non consectetur a erat. Cras fermentum odio eu feugiat pretium nibh ipsum consequat. Viverra accumsan in nisl nisi scelerisque. Et netus et malesuada fames ac. Amet tellus cras adipiscing enim eu turpis egestas pretium aenean. Eget lorem dolor sed viverra ipsum nunc aliquet. Ultrices dui sapien eget mi proin sed libero enim sed. Ultricies mi eget mauris pharetra et ultrices neque. Ipsum suspendisse ultrices gravida dictum. A arcu cursus vitae congue mauris rhoncus aenean vel. Gravida arcu ac tortor dignissim convallis. Nulla posuere sollicitudin aliquam ultrices.</p>
+
+
+
+ ]]></description>
+  <category>Science</category>
+  <category>Data</category>
+  <guid>https://EconMaett.github.io/econmaett.github.io/blog/second-post/</guid>
+  <pubDate>Sat, 23 May 2020 00:00:00 GMT</pubDate>
+  <media:content url="https://EconMaett.github.io/econmaett.github.io/blog/second-post/cover.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
