@@ -5,14 +5,21 @@ execute:
   freeze: auto
 
 website:
-  title: "Home" # https://quarto.org/docs/websites/website-tools.html#open-graph
-  site-url: https://www.econmaett.github.io
+  announcement: 
+    icon: info-cirle
+    dismissable: true
+    content: "**Alert** - this site is currently under construction"
+    type: info
+    position: below-navbar
+  title: "Home"
   description: "econmaett blog"
+  twitter-card: true
   open-graph: true
-  page-footer: "Made with ❤️ and Quarto"
   navbar:
     title: "EconMaett"
-    # background: primary
+    background: light
+    border: false
+    style: "docked"
     search: false
     left: 
       - text: "Blog"
@@ -29,7 +36,11 @@ website:
         href: talks.qmd
     tools:
       - icon: github
-        href: https://github.com/EconMaett/econmaett.github.io
+        menu:
+          - text: "Source Code"
+            href: https://github.com/EconMaett/econmaett.github.io
+          - text: "Report a Bug"
+            href: https://github.com/EconMaett/econmaett.github.io/issues
 
 format:
   html:

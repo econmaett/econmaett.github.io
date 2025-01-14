@@ -2,7 +2,7 @@
 title: "First Post"
 description: "Post description for first post"
 author: "econmaett"
-date: "5/22/21"
+date: "5/22/2021"
 image: "cover.jpg"
 categories:
     - Science
