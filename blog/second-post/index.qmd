@@ -2,7 +2,7 @@
 title: "Second Post"
 description: "Description of second post"
 author: "econmaett"
-date: "5/23/2020"
+date: "5/23/2023"
 image: cover.jpg
 categories:
   - Science
