@@ -7,7 +7,7 @@
     GitHub Actions automatically updates the dashboard every day at 9am. 
     It is based on Melissa van Bussel's award-winning submission to the Posit PBC Table Contest.
   categories: [R, Quarto, Dashboard]
-  date: "2025-15-01"
+  date: "2024-15-01"
 
 - title: Customer Segmentation Using Clustering Techniques
   path: https://example.com/customer-segmentation
