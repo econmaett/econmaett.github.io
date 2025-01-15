@@ -8,13 +8,21 @@
   categories: [R, Quarto, Dashboard]
   date: "2024-15-01"
 
-- title: Quarto Dashboard with Plotly
+- title: US Inflation Dashboard with Plotly
   path: https://econmaett.github.io/us-inflation/dashboard.html
   image: images/us-inflation-dashboard.jpg
   description: >
     Automated Quarto dashboard using plotly to display the U.S. Consumer Price Index (CPI) and related measures of inflation. 
   categories: [R, Quarto, Dashboard, Plotly]
   date: "2024-06-01"
+
+- title: Euro Area Inflation Table
+  path: https://econmaett.github.io/ea-inflation/inflation-table.html
+  image: images/ea-inflation-table
+  description: >
+    Automated Quarto dashboard using gt to display the Harmonised Indices of Consumer Prices (HICP) in the Euro Area.
+  categories: [R, Quarto, Table]
+  date: "2024-05-01"
 
 # Ongoing projects
 - title: Economic Release Calendar
