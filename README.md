@@ -5,4 +5,7 @@
 
 Hi there! Welcome to the repository for my personal website!
 
-It contains the the source code for [my personal website](https://econmaett.github.io/).
+You can check out the live page [here](https://econmaett.github.io/).
+
+The website is made primarily with [Quarto](https://quarto.org/) and a little knowledge about HTML and CSS.
+
