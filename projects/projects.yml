@@ -15,7 +15,7 @@
   description: >
     Automated Quarto dashboard using plotly to display the U.S. Consumer Price Index (CPI) and related measures of inflation. 
   categories: [R, Quarto, Dashboard, Plotly]
-  date: "2024-04-01"
+  date: "2024-06-01"
 
 - title: Visualizing Global CO2 Emissions
   path: https://example.com/co2-visualization
