@@ -18,7 +18,7 @@
 
 - title: Euro Area Inflation Table
   path: https://econmaett.github.io/ea-inflation/inflation-table.html
-  image: images/ea-inflation-table
+  image: images/ea-inflation-table.jpg
   description: >
     Automated Quarto dashboard using gt to display the Harmonised Indices of Consumer Prices (HICP) in the Euro Area.
   categories: [R, Quarto, Table]
