@@ -158,6 +158,14 @@ ul.task-list li input[type="checkbox"] {
 </main> 
   <hr class="about-sep">
    <div class="about-links">
+  <a href="mailto:econmaett@github.io" class="about-link" rel="" target="">
+    <i class="bi bi-envelope-fill"></i>
+     <span class="about-link-text"></span>
+  </a>
+  <a href="http://linkedin.com/in/econmaett" class="about-link" rel="" target="">
+    <i class="bi bi-linkedin"></i>
+     <span class="about-link-text"></span>
+  </a>
   <a href="https://github.com/EconMaett" class="about-link" rel="" target="">
     <i class="bi bi-github"></i>
      <span class="about-link-text"></span>
@@ -288,7 +296,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/econmaett\.github\.io\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
