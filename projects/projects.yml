@@ -10,7 +10,7 @@
   date: "2024-15-01"
 
 - title: Quarto Dashboard with Plotly
-  path: https://econmaett.quarto.pub/us-inflation-dashboard/dashboard.html
+  path: https://econmaett.github.io/us-inflation/dashboard.html
   image: images/us-inflation-dashboard.jpg
   description: >
     Quarto dashboard using plotly to display the U.S. Consumer Price Index (CPI) and related measures of inflation. 
