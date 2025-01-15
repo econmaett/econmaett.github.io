@@ -1,6 +1,5 @@
 - title: Spotify Today's Top Songs Dashboard
   path: https://econmaett.github.io/spotify-dashboard/dashboard.html
-  # Screenshot
   image: images/spotify_todays-top-songs.jpg
   description: >
     Quarto dashboard accessing the Spotify Web API to create a dashboard of Today's Top Songs. 
@@ -17,13 +16,59 @@
   categories: [R, Quarto, Dashboard, Plotly]
   date: "2024-06-01"
 
-- title: Visualizing Global CO2 Emissions
+# Ongoing projects
+- title: Economic Release Calendar
   path: https://example.com/co2-visualization
-  # Photo by Anne Nygård on Unsplash https://unsplash.com/photos/white-clouds-in-blue-sky-vc-vPgGqAr4
-  image: images/anne-nygard-vc-vPgGqAr4-unsplash.jpg
+  image: images/deep-sky-blue.jpg
   description: >
-    This project involves creating visualizations to show trends in global CO2 emissions
-    over time. It includes data extraction from public databases, data cleaning, and using
-    visualization libraries to create interactive charts and graphs.
-  categories: [R, Data Visualization, Environmental Science]
-  date: "2024-07-01"
+    Economic Release Calendar
+  categories: [R, Calendar]
+  date: "2020-01-01"
+
+- title: EIA Annual Energy Outlook Projections
+  path: https://example.com/co2-visualization
+  image: images/deep-sky-blue.jpg
+  description: >
+    EIA Annual Energy Outlook Projections
+  categories: [R, Quarto, Dashboard]
+  date: "2020-01-01"
+
+- title: EIA Short Term Energy Outlook (STEO)
+  path: https://example.com/co2-visualization
+  image: images/deep-sky-blue.jpg
+  description: >
+    EIA Annual Energy Outlook Projections
+  categories: [R, Quarto, Dashboard]
+  date: "2020-01-01"
+
+- title: IMF World Economic Outlook (WEO)
+  path: https://example.com/co2-visualization
+  image: images/deep-sky-blue.jpg
+  description: >
+    IMF World Economic Outlook (WEO)
+  categories: [R, Quarto, Dashboard]
+  date: "2020-01-01"
+
+- title: Sahm Rule Recession Indicator
+  path: https://example.com/co2-visualization
+  image: images/deep-sky-blue.jpg
+  description: >
+    Sahm Rule Recession Indicator
+  categories: [R, Quarto, Dashboard]
+  date: "2020-01-01"
+
+- title: Volatility Analysis
+  path: https://example.com/co2-visualization
+  image: images/deep-sky-blue.jpg
+  description: >
+    Volatility Analysis
+  categories: [R, Volatility]
+  date: "2020-01-01"
+
+- title: BIS Dashboard
+  path: https://example.com/co2-visualization
+  image: images/deep-sky-blue.jpg
+  description: >
+    Quarto Dasbhoard using plotly to display aggregate data from the Bank for International Settlements (BIS)
+  categories: [R, Dasbhoard]
+  date: "2020-01-01"
