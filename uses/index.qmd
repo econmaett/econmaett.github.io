@@ -9,17 +9,17 @@ Here is a list of tools I use on a daily basis. Feel free to get inspired!
 
 ## Coding
 
-My preferred language for data wrangling is [R](https://www.r-project.org/) and the [`{tidyverse}`](https://www.tidyverse.org/) family of packages.
+- My preferred language for data wrangling is [R](https://www.r-project.org/) and the [`{tidyverse}`](https://www.tidyverse.org/) family of packages.
 
-I am partial to [Python](https://www.python.org/), especially since the release of multile R-like libraries, such as [polars](https://pola.rs/), [shiny](https://shiny.posit.co/py/) (equivalent to [`{shiny}`](https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/)), [great tables](https://posit-dev.github.io/great-tables/) (equivalent to [`{gt}`](https://gt.rstudio.com/)), [plotnine](https://plotnine.org/) (equivalent to [`{ggplot2}`](https://ggplot2.tidyverse.org/)).
+- I am partial to [Python](https://www.python.org/), especially since the release of multile R-like libraries, such as [polars](https://pola.rs/), [shiny](https://shiny.posit.co/py/) (equivalent to [`{shiny}`](https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/)), [great tables](https://posit-dev.github.io/great-tables/) (equivalent to [`{gt}`](https://gt.rstudio.com/)), [plotnine](https://plotnine.org/) (equivalent to [`{ggplot2}`](https://ggplot2.tidyverse.org/)).
 
-Reasons to use [Julia](https://julialang.org/) are [Dynare for Julia](https://dynarejulia.github.io/Dynare.jl/) and [Tidier](https://tidierorg.github.io/Tidier.jl/v1.5.1/), a reimplementation of the `{tidyverse}` family of packages in Julia!
+- Reasons to use [Julia](https://julialang.org/) are [Dynare for Julia](https://dynarejulia.github.io/Dynare.jl/) and [Tidier](https://tidierorg.github.io/Tidier.jl/v1.5.1/), a reimplementation of the `{tidyverse}` family of packages in Julia!
 
-I use [plotly](https://plotly.com/) to create interactive dashboards.
+- I use [plotly](https://plotly.com/) to create interactive dashboards.
 
 ## IDE
 
-I primarily use the [RStudio IDE](https://posit.co/downloads/) or the [Positron IDE](https://positron.posit.co/)
+- I primarily use the [RStudio IDE](https://posit.co/downloads/) and the [Positron IDE](https://positron.posit.co/)
 
 ## Style guides
 
@@ -31,7 +31,7 @@ I primarily use the [RStudio IDE](https://posit.co/downloads/) or the [Positron 
 
 ## Writing
 
-- I am fluent in [LaTeX](https://www.latex-project.org/) but I would recommend [typst](https://typst.app/) for beginners.
+- I am fluent in [LaTeX](https://www.latex-project.org/) but I would recommend [typst](https://typst.app/) for typesetting beginners.
 
 - I have completely moved from [R Markdown](https://rmarkdown.rstudio.com/) to [Quarto](https://quarto.org/), but I still recommend the [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/) to learn more about Yihui Xie's amazing [`{knitr}`](https://yihui.org/knitr/) package.
 
@@ -72,4 +72,3 @@ I primarily use the [RStudio IDE](https://posit.co/downloads/) or the [Positron 
 - I create [Quarto Websites](https://quarto.org/docs/websites/) for all of my projects using [GitHub Pages](https://pages.github.com/).
 
 - I have also used [Quarto Pub](https://quartopub.com/) and [Netlify](www.netlify.com) for publishing. 
-
