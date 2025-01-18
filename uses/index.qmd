@@ -25,9 +25,7 @@ Here is a list of tools I use on a daily basis. Feel free to get inspired!
 
 - When it comes to creating visualizations, I try to follow the book [Storytelling with Data](https://www.storytellingwithdata.com/) by Cole Nussbaumer Knaflic.
 
-- I try to follow Hadley Wickham's book [Tidy design principles](https://design.tidyverse.org/), which builds on the [Tidyverse style guide](https://style.tidyverse.org/), which in turn is derived from [Google’s R Style Guide](https://google.github.io/styleguide/Rguide.html).
-
-- I use the [`{styler}`](https://styler.r-lib.org/) R package and RStudio add-in to re-style existing code with a single click. 
+- I try to follow Hadley Wickham's book [Tidy design principles](https://design.tidyverse.org/), which builds on the [Tidyverse style guide](https://style.tidyverse.org/), which in turn is derived from [Google’s R Style Guide](https://google.github.io/styleguide/Rguide.html). I use the [`{styler}`](https://styler.r-lib.org/) R package and RStudio add-in to re-style existing code with a single click. 
 
 ## Writing
 

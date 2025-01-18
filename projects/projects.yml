@@ -5,7 +5,7 @@
     Quarto dashboard accessing the Spotify Web API to create a dashboard of Today's Top Songs. 
     GitHub Actions automatically updates the dashboard every day at 9am. 
     It is based on Melissa van Bussel's award-winning submission to the Posit PBC Table Contest.
-  categories: [R, Quarto, Dashboard]
+  categories: [r, quarto, dashboard]
   date: "2024-15-01"
 
 - title: US Inflation Dashboard with Plotly
@@ -13,7 +13,7 @@
   image: images/us-inflation-dashboard.jpg
   description: >
     Automated Quarto dashboard using plotly to display the U.S. Consumer Price Index (CPI) and related measures of inflation. 
-  categories: [R, Quarto, Dashboard, Plotly]
+  categories: [r, quarto, dashboard, plotly]
   date: "2024-06-01"
 
 - title: Euro Area Inflation Table
@@ -21,7 +21,7 @@
   image: images/ea-inflation-table.jpg
   description: >
     Automated Quarto dashboard using gt to display the Harmonised Indices of Consumer Prices (HICP) in the Euro Area.
-  categories: [R, Quarto, Table]
+  categories: [r, quarto, table]
   date: "2024-05-01"
 
 # Ongoing projects
@@ -30,7 +30,7 @@
   image: images/deep-sky-blue.jpg
   description: >
     Economic Release Calendar
-  categories: [R, Calendar]
+  categories: [r, calendar]
   date: "2020-01-01"
 
 - title: EIA Annual Energy Outlook Projections
@@ -38,7 +38,7 @@
   image: images/deep-sky-blue.jpg
   description: >
     EIA Annual Energy Outlook Projections
-  categories: [R, Quarto, Dashboard]
+  categories: [r, quarto, dashboard]
   date: "2020-01-01"
 
 - title: EIA Short Term Energy Outlook (STEO)
@@ -46,7 +46,7 @@
   image: images/deep-sky-blue.jpg
   description: >
     EIA Annual Energy Outlook Projections
-  categories: [R, Quarto, Dashboard]
+  categories: [r, quarto, dashboard]
   date: "2020-01-01"
 
 - title: IMF World Economic Outlook (WEO)
@@ -54,7 +54,7 @@
   image: images/deep-sky-blue.jpg
   description: >
     IMF World Economic Outlook (WEO)
-  categories: [R, Quarto, Dashboard]
+  categories: [r, quarto, dashboard]
   date: "2020-01-01"
 
 - title: Sahm Rule Recession Indicator
@@ -62,7 +62,7 @@
   image: images/deep-sky-blue.jpg
   description: >
     Sahm Rule Recession Indicator
-  categories: [R, Quarto, Dashboard]
+  categories: [r, quarto, dashboard]
   date: "2020-01-01"
 
 - title: Volatility Analysis
@@ -70,7 +70,7 @@
   image: images/deep-sky-blue.jpg
   description: >
     Volatility Analysis
-  categories: [R, Volatility]
+  categories: [r, volatility]
   date: "2020-01-01"
 
 - title: BIS Dashboard
@@ -78,5 +78,37 @@
   image: images/deep-sky-blue.jpg
   description: >
     Quarto Dasbhoard using plotly to display aggregate data from the Bank for International Settlements (BIS)
-  categories: [R, Dasbhoard]
+  categories: [r, dasbhoard]
   date: "2020-01-01"
+  
+- title: Kalman Filter
+  path: https://example.com/co2-visualization
+  image: images/deep-sky-blue.jpg
+  description: >
+    Kalman Filter implementation in R.
+  categories: [r, time-series, filter]
+  date: "2024-07-01"
+  
+- title: HP Filter vs Hamilton Filter
+  path: https://example.com/co2-visualization
+  image: images/deep-sky-blue.jpg
+  description: >
+    HP Filter vs Hamlilton Filter.
+  categories: [r, time-series, filter]
+  date: "2024-07-01"
+  
+- title: Seasonal Adjustment of Daily Data
+  path: https://example.com/co2-visualization
+  image: images/deep-sky-blue.jpg
+  description: >
+    Seasonal adjustment of daily time series.
+  categories: [r, time-series, filter]
+  date: "2024-07-01"
+  
+- title: How to create a Hex Sticker Logo
+  path: https://example.com/co2-visualization
+  image: images/deep-sky-blue.jpg
+  description: >
+    Creating personal hex-sticker logos.
+  categories: [r, hex-sticker, logo]
+  date: "2022-07-01"
