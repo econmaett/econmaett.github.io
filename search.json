@@ -25,35 +25,35 @@
     "href": "uses/index.html#style-guides",
     "title": "What I use",
     "section": "Style guides",
-    "text": "Style guides\nWhen it comes to creating visualizations, I try to follow the book Storytelling with Data by Cole Nussbaumer Knaflic.\nI try to follow Hadley Wickham’s book Tidy design principles, which builds on the Tidyverse style guide, which in turn is derived from Google’s R Style Guide.\nI use the {styler} R package and RStudio add-in to re-style existing code with a single click."
+    "text": "Style guides\n\nWhen it comes to creating visualizations, I try to follow the book Storytelling with Data by Cole Nussbaumer Knaflic.\nI try to follow Hadley Wickham’s book Tidy design principles, which builds on the Tidyverse style guide, which in turn is derived from Google’s R Style Guide.\nI use the {styler} R package and RStudio add-in to re-style existing code with a single click."
   },
   {
     "objectID": "uses/index.html#writing",
     "href": "uses/index.html#writing",
     "title": "What I use",
     "section": "Writing",
-    "text": "Writing\nI am fluent in LaTeX but I would recommend typst for beginners.\nI have completely moved from R Markdown to Quarto, but I still recommend the R Markdown Cookbook to learn more about Yihui Xie’s amazing {knitr} package.\nI read and annotate PDFs with Zotero.\nTo make PDFs more visible on GitHub, I use nbviewer.\nWhen working with Overleaf, I use Better BibTeX for Zotero to automatically generate citation keys without key clashes.\nI highly recommend the the Monash Quarto Templates and the Quarto Journal Templates."
+    "text": "Writing\n\nI am fluent in LaTeX but I would recommend typst for beginners.\nI have completely moved from R Markdown to Quarto, but I still recommend the R Markdown Cookbook to learn more about Yihui Xie’s amazing {knitr} package.\nI read and annotate PDFs with Zotero.\nTo make PDFs more visible on GitHub, I use nbviewer.\nWhen working with Overleaf, I use Better BibTeX for Zotero to automatically generate citation keys without key clashes.\nI highly recommend the the Monash Quarto Templates and the Quarto Journal Templates.\nI use The Rogue Scholar to create stable DOIs for each of my blog posts."
   },
   {
     "objectID": "uses/index.html#reproducibility",
     "href": "uses/index.html#reproducibility",
     "title": "What I use",
     "section": "Reproducibility",
-    "text": "Reproducibility\nI use the {renv} R package to snapshot the R version and the package versions and save them in an isolated library.\nWhen I want to snapshot the entire ecosystem, including system-level dependencies, I use the {rix} package.\nI use {targets} to create Make-like pipelines.\nI try to follow Bruno Rodrigues book Building reproducible analytical pipelines with R and Building reproducible analytical pipelines with Python, respectively."
+    "text": "Reproducibility\n\nI use the {renv} R package to snapshot the R version and the package versions and save them in an isolated library.\nWhen I want to snapshot the entire ecosystem, including system-level dependencies, I use the {rix} package.\nI use {targets} to create Make-like pipelines.\nI try to follow Bruno Rodrigues book Building reproducible analytical pipelines with R and Building reproducible analytical pipelines with Python, respectively."
   },
   {
     "objectID": "uses/index.html#llms",
     "href": "uses/index.html#llms",
     "title": "What I use",
     "section": "LLMs",
-    "text": "LLMs\nI have been experimenting with GitHub Copilot in RStudio.\nTo create GitHub Actions workflows, I usually ask ChatGPT.\nIf you want to properly cite your sources, I recommend perplexity.ai.\nThe Claude chat bot is useful when developing large projects.\nCheck out the BIS Quarterly Review Special Feature Large language models: a primer for economists."
+    "text": "LLMs\n\nI have been experimenting with GitHub Copilot in RStudio.\nTo create GitHub Actions workflows, I usually ask ChatGPT.\nIf you want to properly cite your sources, I recommend perplexity.ai.\nThe Claude chat bot is useful when developing large projects.\nCheck out the BIS Quarterly Review Special Feature Large language models: a primer for economists."
   },
   {
     "objectID": "uses/index.html#web",
     "href": "uses/index.html#web",
     "title": "What I use",
     "section": "Web",
-    "text": "Web\nI create Quarto Websites for all of my projects using GitHub Pages.\nI have also used Quarto Pub and Netlify for publishing."
+    "text": "Web\n\nI create Quarto Websites for all of my projects using GitHub Pages.\nI have also used Quarto Pub and Netlify for publishing."
   },
   {
     "objectID": "blog/third-post/index.html",
