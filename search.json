@@ -11,14 +11,14 @@
     "href": "uses/index.html#coding",
     "title": "What I use",
     "section": "Coding",
-    "text": "Coding\nMy preferred language for data wrangling is R and the {tidyverse} family of packages.\nI am partial to Python, especially since the release of multile R-like libraries, such as polars, shiny (equivalent to {shiny}), great tables (equivalent to {gt}), plotnine (equivalent to {ggplot2}).\nReasons to use Julia are Dynare for Julia and Tidier, a reimplementation of the {tidyverse} family of packages in Julia!\nI use plotly to create interactive dashboards."
+    "text": "Coding\n\nMy preferred language for data wrangling is R and the {tidyverse} family of packages.\nI am partial to Python, especially since the release of multile R-like libraries, such as polars, shiny (equivalent to {shiny}), great tables (equivalent to {gt}), plotnine (equivalent to {ggplot2}).\nReasons to use Julia are Dynare for Julia and Tidier, a reimplementation of the {tidyverse} family of packages in Julia!\nI use plotly to create interactive dashboards."
   },
   {
     "objectID": "uses/index.html#ide",
     "href": "uses/index.html#ide",
     "title": "What I use",
     "section": "IDE",
-    "text": "IDE\nI primarily use the RStudio IDE or the Positron IDE"
+    "text": "IDE\n\nI primarily use the RStudio IDE and the Positron IDE"
   },
   {
     "objectID": "uses/index.html#style-guides",
@@ -32,7 +32,7 @@
     "href": "uses/index.html#writing",
     "title": "What I use",
     "section": "Writing",
-    "text": "Writing\n\nI am fluent in LaTeX but I would recommend typst for beginners.\nI have completely moved from R Markdown to Quarto, but I still recommend the R Markdown Cookbook to learn more about Yihui Xie’s amazing {knitr} package.\nI read and annotate PDFs with Zotero.\nTo make PDFs more visible on GitHub, I use nbviewer.\nWhen working with Overleaf, I use Better BibTeX for Zotero to automatically generate citation keys without key clashes.\nI highly recommend the the Monash Quarto Templates and the Quarto Journal Templates.\nI use The Rogue Scholar to create stable DOIs for each of my blog posts."
+    "text": "Writing\n\nI am fluent in LaTeX but I would recommend typst for typesetting beginners.\nI have completely moved from R Markdown to Quarto, but I still recommend the R Markdown Cookbook to learn more about Yihui Xie’s amazing {knitr} package.\nI read and annotate PDFs with Zotero.\nTo make PDFs more visible on GitHub, I use nbviewer.\nWhen working with Overleaf, I use Better BibTeX for Zotero to automatically generate citation keys without key clashes.\nI highly recommend the the Monash Quarto Templates and the Quarto Journal Templates.\nI use The Rogue Scholar to create stable DOIs for each of my blog posts."
   },
   {
     "objectID": "uses/index.html#reproducibility",
@@ -77,8 +77,15 @@
     "text": "Spotify Today’s Top Songs Dashboard\n\n\n\nR\n\n\nQuarto\n\n\nDashboard\n\n\n\nQuarto dashboard accessing the Spotify Web API to create a dashboard of Today’s Top Songs. GitHub Actions automatically updates the dashboard every day at 9am. It is based on Melissa van Bussel’s award-winning submission to the Posit PBC Table…\n\n\n\n2025-03-01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUS Inflation Dashboard with Plotly\n\n\n\nR\n\n\nQuarto\n\n\nDashboard\n\n\nPlotly\n\n\n\nAutomated Quarto dashboard using plotly to display the U.S. Consumer Price Index (CPI) and related measures of inflation.\n\n\n\n2024-06-01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEuro Area Inflation Table\n\n\n\nR\n\n\nQuarto\n\n\nTable\n\n\n\nAutomated Quarto dashboard using gt to display the Harmonised Indices of Consumer Prices (HICP) in the Euro Area.\n\n\n\n2024-05-01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEconomic Release Calendar\n\n\n\nR\n\n\nCalendar\n\n\n\nEconomic Release Calendar\n\n\n\n2020-01-01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEIA Annual Energy Outlook Projections\n\n\n\nR\n\n\nQuarto\n\n\nDashboard\n\n\n\nEIA Annual Energy Outlook Projections\n\n\n\n2020-01-01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEIA Short Term Energy Outlook (STEO)\n\n\n\nR\n\n\nQuarto\n\n\nDashboard\n\n\n\nEIA Annual Energy Outlook Projections\n\n\n\n2020-01-01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIMF World Economic Outlook (WEO)\n\n\n\nR\n\n\nQuarto\n\n\nDashboard\n\n\n\nIMF World Economic Outlook (WEO)\n\n\n\n2020-01-01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSahm Rule Recession Indicator\n\n\n\nR\n\n\nQuarto\n\n\nDashboard\n\n\n\nSahm Rule Recession Indicator\n\n\n\n2020-01-01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVolatility Analysis\n\n\n\nR\n\n\nVolatility\n\n\n\nVolatility Analysis\n\n\n\n2020-01-01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBIS Dashboard\n\n\n\nR\n\n\nDasbhoard\n\n\n\nQuarto Dasbhoard using plotly to display aggregate data from the Bank for International Settlements (BIS)\n\n\n\n2020-01-01\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "talks.html",
-    "href": "talks.html",
+    "objectID": "talks/index.html",
+    "href": "talks/index.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis imperdiet massa tincidunt nunc pulvinar sapien et ligula. Amet cursus sit amet dictum sit amet. Eget duis at tellus at urna condimentum. Convallis aenean et tortor at risus viverra. Tincidunt ornare massa eget egestas purus viverra accumsan. Et malesuada fames ac turpis egestas. At imperdiet dui accumsan sit amet. Ut ornare lectus sit amet est placerat. Enim nulla aliquet porttitor lacus luctus accumsan tortor posuere. Duis ultricies lacus sed turpis tincidunt id aliquet risus. Mattis enim ut tellus elementum sagittis. Dui id ornare arcu odio ut. Natoque penatibus et magnis dis. Libero justo laoreet sit amet cursus sit. Sed faucibus turpis in eu. Tempus iaculis urna id volutpat lacus laoreet.\nPhasellus vestibulum lorem sed risus. Eget felis eget nunc lobortis mattis. Sit amet aliquam id diam maecenas ultricies. Egestas maecenas pharetra convallis posuere morbi. Etiam erat velit scelerisque in dictum non consectetur a erat. Cras fermentum odio eu feugiat pretium nibh ipsum consequat. Viverra accumsan in nisl nisi scelerisque. Et netus et malesuada fames ac. Amet tellus cras adipiscing enim eu turpis egestas pretium aenean. Eget lorem dolor sed viverra ipsum nunc aliquet. Ultrices dui sapien eget mi proin sed libero enim sed. Ultricies mi eget mauris pharetra et ultrices neque. Ipsum suspendisse ultrices gravida dictum. A arcu cursus vitae congue mauris rhoncus aenean vel. Gravida arcu ac tortor dignissim convallis. Nulla posuere sollicitudin aliquam ultrices."
+  },
+  {
+    "objectID": "talks/talks.html",
+    "href": "talks/talks.html",
     "title": "Talks",
     "section": "",
     "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis imperdiet massa tincidunt nunc pulvinar sapien et ligula. Amet cursus sit amet dictum sit amet. Eget duis at tellus at urna condimentum. Convallis aenean et tortor at risus viverra. Tincidunt ornare massa eget egestas purus viverra accumsan. Et malesuada fames ac turpis egestas. At imperdiet dui accumsan sit amet. Ut ornare lectus sit amet est placerat. Enim nulla aliquet porttitor lacus luctus accumsan tortor posuere. Duis ultricies lacus sed turpis tincidunt id aliquet risus. Mattis enim ut tellus elementum sagittis. Dui id ornare arcu odio ut. Natoque penatibus et magnis dis. Libero justo laoreet sit amet cursus sit. Sed faucibus turpis in eu. Tempus iaculis urna id volutpat lacus laoreet.\nPhasellus vestibulum lorem sed risus. Eget felis eget nunc lobortis mattis. Sit amet aliquam id diam maecenas ultricies. Egestas maecenas pharetra convallis posuere morbi. Etiam erat velit scelerisque in dictum non consectetur a erat. Cras fermentum odio eu feugiat pretium nibh ipsum consequat. Viverra accumsan in nisl nisi scelerisque. Et netus et malesuada fames ac. Amet tellus cras adipiscing enim eu turpis egestas pretium aenean. Eget lorem dolor sed viverra ipsum nunc aliquet. Ultrices dui sapien eget mi proin sed libero enim sed. Ultricies mi eget mauris pharetra et ultrices neque. Ipsum suspendisse ultrices gravida dictum. A arcu cursus vitae congue mauris rhoncus aenean vel. Gravida arcu ac tortor dignissim convallis. Nulla posuere sollicitudin aliquam ultrices."
