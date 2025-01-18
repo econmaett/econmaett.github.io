@@ -11,7 +11,7 @@
     "href": "uses/index.html#coding",
     "title": "What I use",
     "section": "Coding",
-    "text": "Coding\n\nMy preferred language for data wrangling is R and the {tidyverse} family of packages.\nI am partial to Python, especially since the release of multile R-like libraries, such as polars, shiny (equivalent to {shiny}), great tables (equivalent to {gt}), plotnine (equivalent to {ggplot2}).\nReasons to use Julia are Dynare for Julia and Tidier, a reimplementation of the {tidyverse} family of packages in Julia!\nI use plotly to create interactive dashboards."
+    "text": "Coding\n\nMy preferred language for data wrangling is R and the {tidyverse} family of packages.\nI am partial to Python, especially since the release of multiple R-like libraries, such as polars, shiny (equivalent to {shiny}), great tables (equivalent to {gt}), plotnine (equivalent to {ggplot2}) and Shinylive for Python (equivalent to Shinylive for R).\nReasons to use Julia are Dynare for Julia and Tidier, a reimplementation of the {tidyverse} family of packages in Julia!\nI use plotly to create interactive dashboards."
   },
   {
     "objectID": "uses/index.html#ide",
