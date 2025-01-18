@@ -30,7 +30,7 @@ website:
         icon: gear
         href: projects/index.qmd
       - text: "Uses"
-        icon: hammer
+        icon: wrench
         href: uses/index.qmd
     right:
       - text: "RSS"
