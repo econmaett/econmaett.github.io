@@ -11,7 +11,7 @@ Here is a list of tools I use on a daily basis. Feel free to get inspired!
 
 - My preferred language for data wrangling is [R](https://www.r-project.org/) and the [`{tidyverse}`](https://www.tidyverse.org/) family of packages.
 
-- I am partial to [Python](https://www.python.org/), especially since the release of multile R-like libraries, such as [polars](https://pola.rs/), [shiny](https://shiny.posit.co/py/) (equivalent to [`{shiny}`](https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/)), [great tables](https://posit-dev.github.io/great-tables/) (equivalent to [`{gt}`](https://gt.rstudio.com/)), [plotnine](https://plotnine.org/) (equivalent to [`{ggplot2}`](https://ggplot2.tidyverse.org/)).
+- I am partial to [Python](https://www.python.org/), especially since the release of multiple R-like libraries, such as [polars](https://pola.rs/), [shiny](https://shiny.posit.co/py/) (equivalent to [`{shiny}`](https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/)), [great tables](https://posit-dev.github.io/great-tables/) (equivalent to [`{gt}`](https://gt.rstudio.com/)), [plotnine](https://plotnine.org/) (equivalent to [`{ggplot2}`](https://ggplot2.tidyverse.org/)) and [Shinylive for Python](https://shiny.posit.co/py/docs/shinylive.html) (equivalent to [Shinylive for R](https://posit-dev.github.io/r-shinylive/)).
 
 - Reasons to use [Julia](https://julialang.org/) are [Dynare for Julia](https://dynarejulia.github.io/Dynare.jl/) and [Tidier](https://tidierorg.github.io/Tidier.jl/v1.5.1/), a reimplementation of the `{tidyverse}` family of packages in Julia!
 
