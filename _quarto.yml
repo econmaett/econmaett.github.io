@@ -29,6 +29,9 @@ website:
       - text: "Projects"
         icon: gear
         href: projects/index.qmd
+      - text: "Uses"
+        icon: hammer
+        href: uses/index.qmd
     right:
       - text: "RSS"
         icon: rss

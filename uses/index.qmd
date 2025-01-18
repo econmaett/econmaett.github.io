@@ -1,0 +1,73 @@
+---
+title: "What I use"
+toc: true
+toc-location: left
+toc-title: "Contents"
+---
+
+Here is a list of tools I use on a daily basis. Feel free to get inspired!
+
+## Coding
+
+My preferred language for data wrangling is [R](https://www.r-project.org/) and the [`{tidyverse}`](https://www.tidyverse.org/) family of packages.
+
+I am partial to [Python](https://www.python.org/), especially since the release of multile R-like libraries, such as [polars](https://pola.rs/), [shiny](https://shiny.posit.co/py/) (equivalent to [`{shiny}`](https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/)), [great tables](https://posit-dev.github.io/great-tables/) (equivalent to [`{gt}`](https://gt.rstudio.com/)), [plotnine](https://plotnine.org/) (equivalent to [`{ggplot2}`](https://ggplot2.tidyverse.org/)).
+
+Reasons to use [Julia](https://julialang.org/) are [Dynare for Julia](https://dynarejulia.github.io/Dynare.jl/) and [Tidier](https://tidierorg.github.io/Tidier.jl/v1.5.1/), a reimplementation of the `{tidyverse}` family of packages in Julia!
+
+I use [plotly](https://plotly.com/) to create interactive dashboards.
+
+## IDE
+
+I primarily use the [RStudio IDE](https://posit.co/downloads/) or the [Positron IDE](https://positron.posit.co/)
+
+## Style guides
+
+When it comes to creating visualizations, I try to follow the book [Storytelling with Data](https://www.storytellingwithdata.com/) by Cole Nussbaumer Knaflic.
+
+I try to follow Hadley Wickham's book [Tidy design principles](https://design.tidyverse.org/), which builds on the [Tidyverse style guide](https://style.tidyverse.org/), which in turn is derived from [Google’s R Style Guide](https://google.github.io/styleguide/Rguide.html).
+
+I use the [`{styler}`](https://styler.r-lib.org/) R package and RStudio add-in to re-style existing code with a single click. 
+
+## Writing
+
+I am fluent in [LaTeX](https://www.latex-project.org/) but I would recommend [typst](https://typst.app/) for beginners.
+
+I have completely moved from [R Markdown](https://rmarkdown.rstudio.com/) to [Quarto](https://quarto.org/), but I still recommend the [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/) to learn more about Yihui Xie's amazing [`{knitr}`](https://yihui.org/knitr/) package.
+
+I read and annotate PDFs with [Zotero](https://www.zotero.org/).
+
+To make PDFs more visible on GitHub, I use [nbviewer](https://nbviewer.org/).
+
+When working with [Overleaf](https://www.overleaf.com/), I use [Better BibTeX for Zotero](https://retorque.re/zotero-better-bibtex/) to automatically generate citation keys without key clashes.
+
+I highly recommend the the [Monash Quarto Templates](https://github.com/quarto-monash)  and the [Quarto Journal Templates](https://github.com/quarto-journals).
+
+## Reproducibility
+
+I use the [`{renv}`](https://rstudio.github.io/renv/) R package to snapshot the R version and the package versions and save them in an isolated library. 
+
+When I want to snapshot the entire ecosystem, including system-level dependencies, I use the [`{rix}`](https://docs.ropensci.org/rix/) package.
+
+I use [`{targets}`](https://docs.ropensci.org/targets/) to create Make-like pipelines.
+
+I try to follow [Bruno Rodrigues](https://www.brodrigues.co/) book [Building reproducible analytical pipelines with R](https://raps-with-r.dev/) and [Building reproducible analytical pipelines with Python](https://raps-with-python.dev/), respectively.
+
+## LLMs
+
+I have been experimenting with [GitHub Copilot in RStudio](https://docs.posit.co/ide/user/ide/guide/tools/copilot.html).
+
+To create [GitHub Actions](https://github.com/features/actions) workflows, I usually ask [ChatGPT](https://chatgpt.com/).
+
+If you want to properly cite your sources, I recommend [perplexity.ai](https://www.perplexity.ai/).
+
+The [Claude](https://claude.ai/) chat bot is useful when developing large projects.
+
+Check out the BIS Quarterly Review Special Feature [Large language models: a primer for economists](https://www.bis.org/publ/qtrpdf/r_qt2412b.htm).
+
+## Web
+
+I create [Quarto Websites](https://quarto.org/docs/websites/) for all of my projects using [GitHub Pages](https://pages.github.com/).
+
+I have also used [Quarto Pub](https://quartopub.com/) and [Netlify](www.netlify.com) for publishing. 
+
