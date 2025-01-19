@@ -1,4 +1,4 @@
-- title: Spotify Today's Top Songs Dashboard
+- title: "Spotify Today's Top Songs Dashboard"
   path: https://econmaett.github.io/spotify-dashboard/dashboard.html
   image: images/spotify_todays-top-songs.jpg
   description: >
@@ -8,7 +8,7 @@
   categories: [r, quarto, dashboard]
   date: "2024-15-01"
 
-- title: US Inflation Dashboard with Plotly
+- title: "US Inflation Dashboard with Plotly"
   path: https://econmaett.github.io/us-inflation/dashboard.html
   image: images/us-inflation-dashboard.jpg
   description: >
@@ -16,7 +16,7 @@
   categories: [r, quarto, dashboard, plotly]
   date: "2024-06-01"
 
-- title: Euro Area Inflation Table
+- title: "Euro Area Inflation Table"
   path: https://econmaett.github.io/ea-inflation/inflation-table.html
   image: images/ea-inflation-table.jpg
   description: >
@@ -25,15 +25,23 @@
   date: "2024-05-01"
 
 # Ongoing projects
-- title: Economic Release Calendar
+- title: "Economic Release Calendar"
   path: https://example.com/co2-visualization
   image: images/deep-sky-blue.jpg
   description: >
-    Economic Release Calendar
+    Use {rvest} to scrape Forex Factory and create an Economic Release Calendar.
   categories: [r, calendar]
   date: "2020-01-01"
 
-- title: EIA Annual Energy Outlook Projections
+- title: "BLS Dashboard with {pins}"
+  path: https://example.com/co2-visualization
+  image: images/deep-sky-blue.jpg
+  description: >
+    Access CPI data from the Bureau of Labor Statistics (BLS).
+  categories: [r, dashboard]
+  date: "2022-06-01"
+
+- title: "EIA Annual Energy Outlook Projections"
   path: https://example.com/co2-visualization
   image: images/deep-sky-blue.jpg
   description: >
@@ -41,7 +49,7 @@
   categories: [r, quarto, dashboard]
   date: "2020-01-01"
 
-- title: EIA Short Term Energy Outlook (STEO)
+- title: "EIA Short Term Energy Outlook (STEO)"
   path: https://example.com/co2-visualization
   image: images/deep-sky-blue.jpg
   description: >
@@ -49,7 +57,7 @@
   categories: [r, quarto, dashboard]
   date: "2020-01-01"
 
-- title: IMF World Economic Outlook (WEO)
+- title: "IMF World Economic Outlook (WEO)"
   path: https://example.com/co2-visualization
   image: images/deep-sky-blue.jpg
   description: >
@@ -57,7 +65,7 @@
   categories: [r, quarto, dashboard]
   date: "2020-01-01"
 
-- title: Sahm Rule Recession Indicator
+- title: "Sahm Rule Recession Indicator"
   path: https://example.com/co2-visualization
   image: images/deep-sky-blue.jpg
   description: >
@@ -65,7 +73,7 @@
   categories: [r, quarto, dashboard]
   date: "2020-01-01"
 
-- title: Volatility Analysis
+- title: "Volatility Analysis"
   path: https://example.com/co2-visualization
   image: images/deep-sky-blue.jpg
   description: >
@@ -73,7 +81,7 @@
   categories: [r, volatility]
   date: "2020-01-01"
 
-- title: BIS Dashboard
+- title: "BIS Dashboard"
   path: https://example.com/co2-visualization
   image: images/deep-sky-blue.jpg
   description: >
@@ -81,7 +89,7 @@
   categories: [r, dasbhoard]
   date: "2020-01-01"
   
-- title: Kalman Filter
+- title: "Kalman Filter"
   path: https://example.com/co2-visualization
   image: images/deep-sky-blue.jpg
   description: >
@@ -89,7 +97,7 @@
   categories: [r, time-series, filter]
   date: "2024-07-01"
   
-- title: HP Filter vs Hamilton Filter
+- title: "HP Filter vs Hamilton Filter"
   path: https://example.com/co2-visualization
   image: images/deep-sky-blue.jpg
   description: >
@@ -97,7 +105,7 @@
   categories: [r, time-series, filter]
   date: "2024-07-01"
   
-- title: Seasonal Adjustment of Daily Data
+- title: "Seasonal Adjustment of Daily Data"
   path: https://example.com/co2-visualization
   image: images/deep-sky-blue.jpg
   description: >
@@ -105,10 +113,18 @@
   categories: [r, time-series, filter]
   date: "2024-07-01"
   
-- title: How to create a Hex Sticker Logo
+- title: "How to create a Hex Sticker Logo"
   path: https://example.com/co2-visualization
   image: images/deep-sky-blue.jpg
   description: >
     Creating personal hex-sticker logos.
   categories: [r, hex-sticker, logo]
   date: "2022-07-01"
+  
+- title: "Accessing APIs"
+  path: https://example.com/co2-visualization
+  image: images/deep-sky-blue.jpg
+  description: >
+    Accessing economic data through APIs.
+  categories: [r, api]
+  date: "2023-06-01"
