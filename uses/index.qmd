@@ -63,6 +63,8 @@ Here is a list of tools I use on a daily basis. Feel free to get inspired!
 
 - The [Claude](https://claude.ai/) chat bot is useful when developing large projects.
 
+- I use [`{ellmer}`](https://ellmer.tidyverse.org/) to interact with LLMs from my IDE.
+
 - Check out the BIS Quarterly Review Special Feature [Large language models: a primer for economists](https://www.bis.org/publ/qtrpdf/r_qt2412b.htm).
 
 ## Web

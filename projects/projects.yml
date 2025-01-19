@@ -121,10 +121,34 @@
   categories: [r, hex-sticker, logo]
   date: "2022-07-01"
   
+- title: "Automation"
+  path: https://example.com/co2-visualization
+  image: images/deep-sky-blue.jpg
+  description: >
+    Automate tasks using GitHub Actions and cron schedules.
+  categories: [r, automation]
+  date: "2022-07-01"
+
+- title: "Reproducible Analytical Pipelines"
+  path: https://example.com/co2-visualization
+  image: images/deep-sky-blue.jpg
+  description: >
+    Create reproducible analytical pipelines using {renv}, {rix}, and {targets}.
+  categories: [r, reproducibility]
+  date: "2022-07-01"
+  
 - title: "Accessing APIs"
   path: https://example.com/co2-visualization
   image: images/deep-sky-blue.jpg
   description: >
     Accessing economic data through APIs.
   categories: [r, api]
+  date: "2023-06-01"
+  
+  - title: "Applied Economic Forecasting"
+  path: https://example.com/co2-visualization
+  image: images/deep-sky-blue.jpg
+  description: >
+    R companion to the book Applied Economic Forecasting Using Time Series Methods by Eric Ghysels und Massimiliano Marcellino.
+  categories: [r, forecasting, book]
   date: "2023-06-01"
