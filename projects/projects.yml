@@ -145,7 +145,7 @@
   categories: [r, api]
   date: "2023-06-01"
   
-  - title: "Applied Economic Forecasting"
+- title: "Applied Economic Forecasting"
   path: https://example.com/co2-visualization
   image: images/deep-sky-blue.jpg
   description: >
