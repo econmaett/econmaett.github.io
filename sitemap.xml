@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://econmaett.github.io/uses/index.html</loc>
-    <lastmod>2025-01-19T23:22:02.813Z</lastmod>
-  </url>
-  <url>
-    <loc>https://econmaett.github.io/blog/third-post/index.html</loc>
-    <lastmod>2025-01-19T23:22:02.810Z</lastmod>
+    <loc>https://econmaett.github.io/index.html</loc>
+    <lastmod>2025-02-08T10:39:01.886Z</lastmod>
   </url>
   <url>
     <loc>https://econmaett.github.io/blog/index.html</loc>
-    <lastmod>2025-01-19T23:22:02.807Z</lastmod>
-  </url>
-  <url>
-    <loc>https://econmaett.github.io/projects/index.html</loc>
-    <lastmod>2025-01-19T23:22:02.812Z</lastmod>
-  </url>
-  <url>
-    <loc>https://econmaett.github.io/talks/index.html</loc>
-    <lastmod>2025-01-19T23:22:02.813Z</lastmod>
-  </url>
-  <url>
-    <loc>https://econmaett.github.io/index.html</loc>
-    <lastmod>2025-01-19T23:22:02.810Z</lastmod>
+    <lastmod>2025-02-08T10:39:01.883Z</lastmod>
   </url>
   <url>
     <loc>https://econmaett.github.io/blog/first-post/index.html</loc>
-    <lastmod>2025-01-19T23:22:02.807Z</lastmod>
+    <lastmod>2025-02-08T10:39:01.883Z</lastmod>
+  </url>
+  <url>
+    <loc>https://econmaett.github.io/uses/index.html</loc>
+    <lastmod>2025-02-08T10:39:01.891Z</lastmod>
+  </url>
+  <url>
+    <loc>https://econmaett.github.io/projects/index.html</loc>
+    <lastmod>2025-02-08T10:39:01.891Z</lastmod>
+  </url>
+  <url>
+    <loc>https://econmaett.github.io/talks/index.html</loc>
+    <lastmod>2025-02-08T10:39:01.891Z</lastmod>
   </url>
   <url>
     <loc>https://econmaett.github.io/blog/second-post/index.html</loc>
-    <lastmod>2025-01-19T23:22:02.810Z</lastmod>
+    <lastmod>2025-02-08T10:39:01.886Z</lastmod>
+  </url>
+  <url>
+    <loc>https://econmaett.github.io/blog/third-post/index.html</loc>
+    <lastmod>2025-02-08T10:39:01.886Z</lastmod>
   </url>
 </urlset>
