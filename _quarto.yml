@@ -1,8 +1,13 @@
 project:
   type: website
+  
+  resources: 
+    - ".well-known/keybase.txt"
 
 execute: 
   freeze: auto
+
+
 
 website:
   site-url: https://econmaett.github.io/
