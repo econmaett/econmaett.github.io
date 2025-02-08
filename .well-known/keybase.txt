@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/econmaett
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://econmaett.github.io
+  * I am econmaett (https://keybase.io/econmaett) on keybase.
+  * I have a public key ASB2EHUYiXWvhZA62RqUDgaFwCxx8uGtfUQMoQRuGJfk1go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120761075188975af85903ad91a940e0685c02c71f2e1ad7d440ca1046e1897e4d60a",
+      "host": "keybase.io",
+      "kid": "0120761075188975af85903ad91a940e0685c02c71f2e1ad7d440ca1046e1897e4d60a",
+      "uid": "0c3d72edbcd5f220e662c17becfe2c19",
+      "username": "econmaett"
+    },
+    "merkle_root": {
+      "ctime": 1739010641,
+      "hash": "69f8d3a1fe2e321710db03baf425e241b55f4c0f389faa9bcc488a3ba98eac25aa2da85cf56b323845d40e297cf3aa4905a859cfe4df19e6340ec91fb65d6dfd",
+      "hash_meta": "2b0d1b89f62c08853a02bc3d01fca0de1a924af88f737050bfe54482bae0d0ce",
+      "seqno": 26527794
+    },
+    "service": {
+      "entropy": "WSe9x0MDN5Kmv3/66EXgae8x",
+      "hostname": "econmaett.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.4.0"
+  },
+  "ctime": 1739010847,
+  "expire_in": 504576000,
+  "prev": "33e9e2e75e80ac452766aed21d9f7111784aa4855b51daf1ecc7b509672b4f7d",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgdhB1GIl1r4WQOtkalA4GhcAscfLhrX1EDKEEbhiX5NYKp3BheWxvYWTESpcCCcQgM+ni516ArEUnZq7SHZ9xEXhKpIVbUdrx7Me1CWcrT33EILH5qBs1cC1iH32eXXq0Z+f2+eS6DtFIh0RTViq+iVpfAgHCo3NpZ8RAXfvRhNQD86DGMXEorrMB3/v3N6zsRpEi8UzEInCGOh1uZvDHlswxOYoBcIj5orQ/ReEgwH1Q6vc/wTnH0Nt7DqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHoZXM8X+3rS43kbIVWj5yY1kj01G1rkIORJfbMwn23Mo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/econmaett
+
+==================================================================
