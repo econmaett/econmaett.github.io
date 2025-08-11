@@ -3,7 +3,7 @@ project:
   
   resources: 
     - ".well-known/keybase.txt"
-    - ".well-known/atproto-did/blsky-verify.txt"
+    - ".well-known/atproto-did.txt"
 
 execute: 
   freeze: auto
