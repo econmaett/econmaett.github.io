@@ -1,38 +1,31 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "econmaett.github.io",
+    "objectID": "blog/third-post/index.html",
+    "href": "blog/third-post/index.html",
+    "title": "Third Blog Post",
     "section": "",
-    "text": "Hi there! My name is Matt and I am an economist and data scientist based in Zurich, Switzerland.\nHere’s a little bit about me and my life."
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "econmaett.github.io",
-    "section": "Education",
-    "text": "Education\nI hold a master’s degree in economics and data analytics from the University of St. Gallen and I am particularly interested in forecasting and automation."
-  },
-  {
-    "objectID": "index.html#skills",
-    "href": "index.html#skills",
-    "title": "econmaett.github.io",
-    "section": "Skills",
-    "text": "Skills\nI am proficient in open source programming languages such as R, Python, and Julia.\nWhen I’m not designing beautiful analyses you will most likely find me scuba diving in lake Zurich or skiing in the snowy Alps."
+    "text": "The source for any page in your website could also be a Jupyter Notebook. This one is third-post/index.ipynb.\nHere’s an example I borrowed from the Seaborn docs:\n\nimport seaborn as sns\n\nsns.set_theme(style=\"whitegrid\")\n\n# Load the diamonds dataset\ndiamonds = sns.load_dataset(\"diamonds\")\n\n# Plot the distribution of clarity ratings, conditional on carat\nsns.displot(\n    data=diamonds,\n    x=\"carat\", hue=\"cut\",\n    kind=\"kde\", height=4, aspect=1.5,\n    multiple=\"fill\", clip=(0, None),\n    palette=\"ch:rot=-.25,hue=1,light=.75\",   \n)"
   },
   {
     "objectID": "blog/index.html",
     "href": "blog/index.html",
     "title": "Blog",
     "section": "",
-    "text": "First Post\n\n\n\nScience\n\n\nTechnology\n\n\n\nPost description for first post\n\n\n\neconmaett\n\n\nMay 22, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSecond Post\n\n\n\nScience\n\n\nData\n\n\n\nDescription of second post\n\n\n\neconmaett\n\n\nMay 23, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nThird Blog Post\n\n\n\nScience\n\n\nData\n\n\n\nAn example post where the source document is a Jupyter Notebook\n\n\n\nAlicia\n\n\nMay 24, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "First Post\n\n\n\nScience\n\nTechnology\n\n\n\nPost description for first post\n\n\n\neconmaett\n\n\nMay 22, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nSecond Post\n\n\n\nScience\n\nData\n\n\n\nDescription of second post\n\n\n\neconmaett\n\n\nMay 23, 2023\n\n\n\n\n\n\n\n\n\n\n\nThird Blog Post\n\n\n\nScience\n\nData\n\n\n\nAn example post where the source document is a Jupyter Notebook\n\n\n\nAlicia\n\n\nMay 24, 2022\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "blog/first-post/index.html",
-    "href": "blog/first-post/index.html",
-    "title": "First Post",
+    "objectID": "talks/index.html",
+    "href": "talks/index.html",
+    "title": "Talks",
     "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis imperdiet massa tincidunt nunc pulvinar sapien et ligula. Amet cursus sit amet dictum sit amet. Eget duis at tellus at urna condimentum. Convallis aenean et tortor at risus viverra. Tincidunt ornare massa eget egestas purus viverra accumsan. Et malesuada fames ac turpis egestas. At imperdiet dui accumsan sit amet. Ut ornare lectus sit amet est placerat. Enim nulla aliquet porttitor lacus luctus accumsan tortor posuere. Duis ultricies lacus sed turpis tincidunt id aliquet risus. Mattis enim ut tellus elementum sagittis. Dui id ornare arcu odio ut. Natoque penatibus et magnis dis. Libero justo laoreet sit amet cursus sit. Sed faucibus turpis in eu. Tempus iaculis urna id volutpat lacus laoreet.\nPhasellus vestibulum lorem sed risus. Eget felis eget nunc lobortis mattis. Sit amet aliquam id diam maecenas ultricies. Egestas maecenas pharetra convallis posuere morbi. Etiam erat velit scelerisque in dictum non consectetur a erat. Cras fermentum odio eu feugiat pretium nibh ipsum consequat. Viverra accumsan in nisl nisi scelerisque. Et netus et malesuada fames ac. Amet tellus cras adipiscing enim eu turpis egestas pretium aenean. Eget lorem dolor sed viverra ipsum nunc aliquet. Ultrices dui sapien eget mi proin sed libero enim sed. Ultricies mi eget mauris pharetra et ultrices neque. Ipsum suspendisse ultrices gravida dictum. A arcu cursus vitae congue mauris rhoncus aenean vel. Gravida arcu ac tortor dignissim convallis. Nulla posuere sollicitudin aliquam ultrices."
+    "text": "In the near future, you will find a list of my talks on this page."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Spotify Today’s Top Songs Dashboard\n\n\n\nr\n\nquarto\n\ndashboard\n\n\n\nQuarto dashboard accessing the Spotify Web API to create a dashboard of Today’s Top Songs. GitHub Actions automatically updates the dashboard every day at 9am. It is based on Melissa van Bussel’s award-winning submission to the Posit PBC Table…\n\n\n\n2025-03-01\n\n\n\n\n\n\n\n\n\n\n\n\n\nUS Inflation Dashboard with Plotly\n\n\n\nr\n\nquarto\n\ndashboard\n\nplotly\n\n\n\nAutomated Quarto dashboard using plotly to display the U.S. Consumer Price Index (CPI) and related measures of inflation.\n\n\n\n2024-06-01\n\n\n\n\n\n\n\n\n\n\n\n\n\nEuro Area Inflation Table\n\n\n\nr\n\nquarto\n\ntable\n\n\n\nAutomated Quarto dashboard using gt to display the Harmonised Indices of Consumer Prices (HICP) in the Euro Area.\n\n\n\n2024-05-01\n\n\n\n\n\n\n\n\n\n\n\n\n\nEconomic Release Calendar\n\n\n\nr\n\ncalendar\n\n\n\nUse {rvest} to scrape Forex Factory and create an Economic Release Calendar.\n\n\n\n2020-01-01\n\n\n\n\n\n\n\n\n\n\n\n\n\nBLS Dashboard with {pins}\n\n\n\nr\n\ndashboard\n\n\n\nAccess CPI data from the Bureau of Labor Statistics (BLS).\n\n\n\n2022-06-01\n\n\n\n\n\n\n\n\n\n\n\n\n\nEIA Annual Energy Outlook Projections\n\n\n\nr\n\nquarto\n\ndashboard\n\n\n\nEIA Annual Energy Outlook Projections\n\n\n\n2020-01-01\n\n\n\n\n\n\n\n\n\n\n\n\n\nEIA Short Term Energy Outlook (STEO)\n\n\n\nr\n\nquarto\n\ndashboard\n\n\n\nEIA Annual Energy Outlook Projections\n\n\n\n2020-01-01\n\n\n\n\n\n\n\n\n\n\n\n\n\nIMF World Economic Outlook (WEO)\n\n\n\nr\n\nquarto\n\ndashboard\n\n\n\nIMF World Economic Outlook (WEO)\n\n\n\n2020-01-01\n\n\n\n\n\n\n\n\n\n\n\n\n\nSahm Rule Recession Indicator\n\n\n\nr\n\nquarto\n\ndashboard\n\n\n\nSahm Rule Recession Indicator\n\n\n\n2020-01-01\n\n\n\n\n\n\n\n\n\n\n\n\n\nVolatility Analysis\n\n\n\nr\n\nvolatility\n\n\n\nVolatility Analysis\n\n\n\n2020-01-01\n\n\n\n\n\n\n\n\n\n\n\n\n\nBIS Dashboard\n\n\n\nr\n\ndasbhoard\n\n\n\nQuarto Dasbhoard using plotly to display aggregate data from the Bank for International Settlements (BIS)\n\n\n\n2020-01-01\n\n\n\n\n\n\n\n\n\n\n\n\n\nKalman Filter\n\n\n\nr\n\ntime-series\n\nfilter\n\n\n\nKalman Filter implementation in R.\n\n\n\n2024-07-01\n\n\n\n\n\n\n\n\n\n\n\n\n\nHP Filter vs Hamilton Filter\n\n\n\nr\n\ntime-series\n\nfilter\n\n\n\nHP Filter vs Hamlilton Filter.\n\n\n\n2024-07-01\n\n\n\n\n\n\n\n\n\n\n\n\n\nSeasonal Adjustment of Daily Data\n\n\n\nr\n\ntime-series\n\nfilter\n\n\n\nSeasonal adjustment of daily time series.\n\n\n\n2024-07-01\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow to create a Hex Sticker Logo\n\n\n\nr\n\nhex-sticker\n\nlogo\n\n\n\nCreating personal hex-sticker logos.\n\n\n\n2022-07-01\n\n\n\n\n\n\n\n\n\n\n\n\n\nAutomation\n\n\n\nr\n\nautomation\n\n\n\nAutomate tasks using GitHub Actions and cron schedules.\n\n\n\n2022-07-01\n\n\n\n\n\n\n\n\n\n\n\n\n\nReproducible Analytical Pipelines\n\n\n\nr\n\nreproducibility\n\n\n\nCreate reproducible analytical pipelines using {renv}, {rix}, and {targets}.\n\n\n\n2022-07-01\n\n\n\n\n\n\n\n\n\n\n\n\n\nAccessing APIs\n\n\n\nr\n\napi\n\n\n\nAccessing economic data through APIs.\n\n\n\n2023-06-01\n\n\n\n\n\n\n\n\n\n\n\n\n\nApplied Economic Forecasting\n\n\n\nr\n\nforecasting\n\nbook\n\n\n\nR companion to the book Applied Economic Forecasting Using Time Series Methods by Eric Ghysels und Massimiliano Marcellino.\n\n\n\n2023-06-01\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "uses/index.html",
@@ -91,18 +84,32 @@
     "text": "Web\n\nI create Quarto Websites for all of my projects using GitHub Pages.\nI have also used Quarto Pub and Netlify for publishing."
   },
   {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "econmaett.github.io",
     "section": "",
-    "text": "Spotify Today’s Top Songs Dashboard\n\n\n\nr\n\n\nquarto\n\n\ndashboard\n\n\n\nQuarto dashboard accessing the Spotify Web API to create a dashboard of Today’s Top Songs. GitHub Actions automatically updates the dashboard every day at 9am. It is based on Melissa van Bussel’s award-winning submission to the Posit PBC Table…\n\n\n\n2025-03-01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUS Inflation Dashboard with Plotly\n\n\n\nr\n\n\nquarto\n\n\ndashboard\n\n\nplotly\n\n\n\nAutomated Quarto dashboard using plotly to display the U.S. Consumer Price Index (CPI) and related measures of inflation.\n\n\n\n2024-06-01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEuro Area Inflation Table\n\n\n\nr\n\n\nquarto\n\n\ntable\n\n\n\nAutomated Quarto dashboard using gt to display the Harmonised Indices of Consumer Prices (HICP) in the Euro Area.\n\n\n\n2024-05-01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEconomic Release Calendar\n\n\n\nr\n\n\ncalendar\n\n\n\nUse {rvest} to scrape Forex Factory and create an Economic Release Calendar.\n\n\n\n2020-01-01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBLS Dashboard with {pins}\n\n\n\nr\n\n\ndashboard\n\n\n\nAccess CPI data from the Bureau of Labor Statistics (BLS).\n\n\n\n2022-06-01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEIA Annual Energy Outlook Projections\n\n\n\nr\n\n\nquarto\n\n\ndashboard\n\n\n\nEIA Annual Energy Outlook Projections\n\n\n\n2020-01-01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEIA Short Term Energy Outlook (STEO)\n\n\n\nr\n\n\nquarto\n\n\ndashboard\n\n\n\nEIA Annual Energy Outlook Projections\n\n\n\n2020-01-01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIMF World Economic Outlook (WEO)\n\n\n\nr\n\n\nquarto\n\n\ndashboard\n\n\n\nIMF World Economic Outlook (WEO)\n\n\n\n2020-01-01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSahm Rule Recession Indicator\n\n\n\nr\n\n\nquarto\n\n\ndashboard\n\n\n\nSahm Rule Recession Indicator\n\n\n\n2020-01-01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVolatility Analysis\n\n\n\nr\n\n\nvolatility\n\n\n\nVolatility Analysis\n\n\n\n2020-01-01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBIS Dashboard\n\n\n\nr\n\n\ndasbhoard\n\n\n\nQuarto Dasbhoard using plotly to display aggregate data from the Bank for International Settlements (BIS)\n\n\n\n2020-01-01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKalman Filter\n\n\n\nr\n\n\ntime-series\n\n\nfilter\n\n\n\nKalman Filter implementation in R.\n\n\n\n2024-07-01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHP Filter vs Hamilton Filter\n\n\n\nr\n\n\ntime-series\n\n\nfilter\n\n\n\nHP Filter vs Hamlilton Filter.\n\n\n\n2024-07-01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSeasonal Adjustment of Daily Data\n\n\n\nr\n\n\ntime-series\n\n\nfilter\n\n\n\nSeasonal adjustment of daily time series.\n\n\n\n2024-07-01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow to create a Hex Sticker Logo\n\n\n\nr\n\n\nhex-sticker\n\n\nlogo\n\n\n\nCreating personal hex-sticker logos.\n\n\n\n2022-07-01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAutomation\n\n\n\nr\n\n\nautomation\n\n\n\nAutomate tasks using GitHub Actions and cron schedules.\n\n\n\n2022-07-01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReproducible Analytical Pipelines\n\n\n\nr\n\n\nreproducibility\n\n\n\nCreate reproducible analytical pipelines using {renv}, {rix}, and {targets}.\n\n\n\n2022-07-01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAccessing APIs\n\n\n\nr\n\n\napi\n\n\n\nAccessing economic data through APIs.\n\n\n\n2023-06-01\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nApplied Economic Forecasting\n\n\n\nr\n\n\nforecasting\n\n\nbook\n\n\n\nR companion to the book Applied Economic Forecasting Using Time Series Methods by Eric Ghysels und Massimiliano Marcellino.\n\n\n\n2023-06-01\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Hi there! My name is Matt and I am an economist and data scientist based in Zurich, Switzerland.\nHere’s a little bit about me and my life."
   },
   {
-    "objectID": "talks/index.html",
-    "href": "talks/index.html",
-    "title": "Talks",
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "econmaett.github.io",
+    "section": "Education",
+    "text": "Education\nI hold a master’s degree in economics and data analytics from the University of St. Gallen and I am particularly interested in forecasting and automation."
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "econmaett.github.io",
+    "section": "Skills",
+    "text": "Skills\nI am proficient in open source programming languages such as R, Python, and Julia.\nWhen I’m not designing beautiful analyses you will most likely find me scuba diving in lake Zurich or skiing in the snowy Alps."
+  },
+  {
+    "objectID": "blog/first-post/index.html",
+    "href": "blog/first-post/index.html",
+    "title": "First Post",
     "section": "",
-    "text": "In the near future, you will find a list of my talks on this page."
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis imperdiet massa tincidunt nunc pulvinar sapien et ligula. Amet cursus sit amet dictum sit amet. Eget duis at tellus at urna condimentum. Convallis aenean et tortor at risus viverra. Tincidunt ornare massa eget egestas purus viverra accumsan. Et malesuada fames ac turpis egestas. At imperdiet dui accumsan sit amet. Ut ornare lectus sit amet est placerat. Enim nulla aliquet porttitor lacus luctus accumsan tortor posuere. Duis ultricies lacus sed turpis tincidunt id aliquet risus. Mattis enim ut tellus elementum sagittis. Dui id ornare arcu odio ut. Natoque penatibus et magnis dis. Libero justo laoreet sit amet cursus sit. Sed faucibus turpis in eu. Tempus iaculis urna id volutpat lacus laoreet.\nPhasellus vestibulum lorem sed risus. Eget felis eget nunc lobortis mattis. Sit amet aliquam id diam maecenas ultricies. Egestas maecenas pharetra convallis posuere morbi. Etiam erat velit scelerisque in dictum non consectetur a erat. Cras fermentum odio eu feugiat pretium nibh ipsum consequat. Viverra accumsan in nisl nisi scelerisque. Et netus et malesuada fames ac. Amet tellus cras adipiscing enim eu turpis egestas pretium aenean. Eget lorem dolor sed viverra ipsum nunc aliquet. Ultrices dui sapien eget mi proin sed libero enim sed. Ultricies mi eget mauris pharetra et ultrices neque. Ipsum suspendisse ultrices gravida dictum. A arcu cursus vitae congue mauris rhoncus aenean vel. Gravida arcu ac tortor dignissim convallis. Nulla posuere sollicitudin aliquam ultrices."
   },
   {
     "objectID": "blog/second-post/index.html",
@@ -110,12 +117,5 @@
     "title": "Second Post",
     "section": "",
     "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis imperdiet massa tincidunt nunc pulvinar sapien et ligula. Amet cursus sit amet dictum sit amet. Eget duis at tellus at urna condimentum. Convallis aenean et tortor at risus viverra. Tincidunt ornare massa eget egestas purus viverra accumsan. Et malesuada fames ac turpis egestas. At imperdiet dui accumsan sit amet. Ut ornare lectus sit amet est placerat. Enim nulla aliquet porttitor lacus luctus accumsan tortor posuere. Duis ultricies lacus sed turpis tincidunt id aliquet risus. Mattis enim ut tellus elementum sagittis. Dui id ornare arcu odio ut. Natoque penatibus et magnis dis. Libero justo laoreet sit amet cursus sit. Sed faucibus turpis in eu. Tempus iaculis urna id volutpat lacus laoreet.\nPhasellus vestibulum lorem sed risus. Eget felis eget nunc lobortis mattis. Sit amet aliquam id diam maecenas ultricies. Egestas maecenas pharetra convallis posuere morbi. Etiam erat velit scelerisque in dictum non consectetur a erat. Cras fermentum odio eu feugiat pretium nibh ipsum consequat. Viverra accumsan in nisl nisi scelerisque. Et netus et malesuada fames ac. Amet tellus cras adipiscing enim eu turpis egestas pretium aenean. Eget lorem dolor sed viverra ipsum nunc aliquet. Ultrices dui sapien eget mi proin sed libero enim sed. Ultricies mi eget mauris pharetra et ultrices neque. Ipsum suspendisse ultrices gravida dictum. A arcu cursus vitae congue mauris rhoncus aenean vel. Gravida arcu ac tortor dignissim convallis. Nulla posuere sollicitudin aliquam ultrices."
-  },
-  {
-    "objectID": "blog/third-post/index.html",
-    "href": "blog/third-post/index.html",
-    "title": "Third Blog Post",
-    "section": "",
-    "text": "The source for any page in your website could also be a Jupyter Notebook. This one is third-post/index.ipynb.\nHere’s an example I borrowed from the Seaborn docs:\n\nimport seaborn as sns\n\nsns.set_theme(style=\"whitegrid\")\n\n# Load the diamonds dataset\ndiamonds = sns.load_dataset(\"diamonds\")\n\n# Plot the distribution of clarity ratings, conditional on carat\nsns.displot(\n    data=diamonds,\n    x=\"carat\", hue=\"cut\",\n    kind=\"kde\", height=4, aspect=1.5,\n    multiple=\"fill\", clip=(0, None),\n    palette=\"ch:rot=-.25,hue=1,light=.75\",   \n)"
   }
 ]
