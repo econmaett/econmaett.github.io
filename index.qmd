@@ -28,10 +28,8 @@ about:
     href: https://www.reddit.com/user/econmaett/
   - icon: twitter
     href: https://x.com/econmaett
-  - icon: Bluesky
+  - text: "{{< iconify fa6-brands bluesky size=1.1em title='Bluesky' >}}"
     href: https://bsky.app/profile/econmaett.github.io
-  # - text: "{{< iconify fa6-brands bluesky size=1.1em title='Bluesky' >}}"
-    # href: https://bsky.app/profile/econmaett.bsky.social
   - icon: mastodon
     href: https://mastodon.social/@econmaett
   - text: "{{< iconify tabler:brand-threads >}}"
