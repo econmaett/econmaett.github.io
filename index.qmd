@@ -8,8 +8,8 @@ about:
   links: 
   - icon: envelope-fill
     href: "mailto:econmaett@github.io"
-  - icon: linkedin
-    href: "http://linkedin.com/in/econmaett"
+  # - icon: linkedin
+  #   href: "http://linkedin.com/in/econmaett"
   - icon: github
     href: https://github.com/econmaett
   - text: "{{< iconify simple-icons:orcid >}}"
