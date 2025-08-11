@@ -45,7 +45,7 @@ website:
         href: talks/index.qmd
     tools:
       - icon: github
-        href: https://github.com/EconMaett/econmaett.github.io
+        href: https://github.com/econmaett/econmaett.github.io
     page-footer:
       left: |
       

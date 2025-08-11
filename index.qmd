@@ -11,7 +11,7 @@ about:
   - icon: linkedin
     href: "http://linkedin.com/in/econmaett"
   - icon: github
-    href: https://github.com/EconMaett
+    href: https://github.com/econmaett
   - text: "{{< iconify simple-icons:orcid >}}"
     href: https://orcid.org/0000-0003-0368-5175
   - icon: instagram
@@ -25,13 +25,14 @@ about:
   - icon: medium
     href: https://medium.com/@econmaett
   - icon: reddit
-    href: https://www.reddit.com/user/EconMaett/
+    href: https://www.reddit.com/user/econmaett/
   - icon: twitter
-    href: https://x.com/EconMaett
+    href: https://x.com/econmaett
   - text: "{{< iconify fa6-brands bluesky size=1.1em title='Bluesky' >}}"
-    href: https://bsky.app/profile/econmaett.bsky.social
+    # href: https://bsky.app/profile/econmaett.bsky.social
+    href: https://bsky.app/profile/econmaett.github.io
   - icon: mastodon
-    href: https://mastodon.social/@EconMaett
+    href: https://mastodon.social/@econmaett
   - text: "{{< iconify tabler:brand-threads >}}"
     href: https://www.threads.net/@econmaett
 ---
