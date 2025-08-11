@@ -10,6 +10,16 @@ execute:
 
 website:
   site-url: https://econmaett.github.io/
+  repo-url: https://github.com/econmaett/econmaett.github.io
+  google-analytics: 
+    tracking-id: "G-5PXR2NYN6F"
+    storage: none
+  twitter-card:
+    card-style: summary_large_image
+    creator: "@econmaett"
+    site: "@econmaett"
+  open-graph:
+    locale: en_US
   announcement: 
     icon: info-cirle
     dismissable: true
@@ -18,8 +28,6 @@ website:
     position: below-navbar
   title: "Home"
   description: "econmaett blog"
-  twitter-card: true
-  open-graph: true
   navbar:
     title: "EconMaett"
     background: light
