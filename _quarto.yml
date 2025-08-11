@@ -3,11 +3,10 @@ project:
   
   resources: 
     - ".well-known/keybase.txt"
+    - ".well-known/atproto-did.txt"
 
 execute: 
   freeze: auto
-
-
 
 website:
   site-url: https://econmaett.github.io/
@@ -47,6 +46,9 @@ website:
     tools:
       - icon: github
         href: https://github.com/EconMaett/econmaett.github.io
+    page-footer:
+      left: |
+      
 
 format:
   html:
