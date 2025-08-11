@@ -28,7 +28,7 @@ about:
     href: https://www.reddit.com/user/econmaett/
   - icon: twitter
     href: https://x.com/econmaett
-  - icon: bluesky
+  - icon: Bluesky
     href: https://bsky.app/profile/econmaett.github.io
   # - text: "{{< iconify fa6-brands bluesky size=1.1em title='Bluesky' >}}"
     # href: https://bsky.app/profile/econmaett.bsky.social
