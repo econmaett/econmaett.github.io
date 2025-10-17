@@ -12,3 +12,5 @@
 
 /_site
 profile.JPG
+
+**/*.quarto_ipynb
