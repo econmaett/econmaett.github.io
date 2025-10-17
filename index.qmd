@@ -26,10 +26,10 @@ about:
     href: https://medium.com/@econmaett
   - icon: reddit
     href: https://www.reddit.com/user/econmaett/
-  - icon: twitter
-    href: https://x.com/econmaett
-  - text: "{{< iconify fa6-brands bluesky size=1.1em title='Bluesky' >}}"
-  # - icon: bluesky
+  # - icon: twitter
+  #   href: https://x.com/econmaett
+  # - text: "{{< iconify fa6-brands bluesky size=1.1em title='Bluesky' >}}"
+  - icon: bluesky
     href: https://bsky.app/profile/econmaett.github.io
   - icon: mastodon
     href: https://mastodon.social/@econmaett
