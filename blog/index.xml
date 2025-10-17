@@ -9,7 +9,7 @@
 <link>https://econmaett.github.io/blog/</link>
 <atom:link href="https://econmaett.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>econmaett blog</description>
-<generator>quarto-1.7.33</generator>
+<generator>quarto-1.8.25</generator>
 <lastBuildDate>Wed, 22 May 2024 00:00:00 GMT</lastBuildDate>
 <item>
   <title>First Post</title>
@@ -67,7 +67,7 @@
 <p>The source for any page in your website could also be a Jupyter Notebook. This one is <code>third-post/index.ipynb</code>.</p>
 <p>Here’s an example I borrowed from the <a href="https://seaborn.pydata.org/examples/multiple_conditional_kde.html">Seaborn docs</a>:</p>
 <div id="cell-3" class="cell" data-execution_count="8">
-<div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><span class="im" style="color: #00769E;
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><span class="im" style="color: #00769E;
 background-color: null;
 font-style: inherit;">import</span> seaborn <span class="im" style="color: #00769E;
 background-color: null;
@@ -133,7 +133,7 @@ background-color: null;
 font-style: inherit;">=</span><span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"ch:rot=-.25,hue=1,light=.75"</span>,   </span>
-<span id="cb1-15">)</span></code></pre></div>
+<span id="cb1-15">)</span></code></pre></div></div>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
